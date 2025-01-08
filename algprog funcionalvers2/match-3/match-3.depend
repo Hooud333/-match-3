@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1734231155 source:c:\users\ricar\onedrive\documentos\algprog funcional\match-3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"raylib.h"
+
